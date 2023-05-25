@@ -40,7 +40,7 @@
 			<h3><?=$b["nome"]?></h3>
 			<h4><?=$b["local"]?></h4>
 			<p><?=$b["avaliacao"]?></p>
-			<p> Preço: R$<?=$b["preco"]?> </p>
+			<p> Preço: <?=$b["preco"]?> </p>
 
 			<?php }else{
 				echo "<h3> Not </h3>";
