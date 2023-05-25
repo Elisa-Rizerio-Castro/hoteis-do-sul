@@ -10,7 +10,7 @@
     </head>
     <body>
         <header>
-            <img src="imagens/logo.png" alt="">
+            <img src="imagens/logo2.png" alt="">
             <nav>
             <ul>
                 <li><a href="index.php">Início</a></li>
@@ -22,8 +22,8 @@
 
         <section id="banner">
             <h2>Bem-vindos ao Hotéis do Sul</h2>
-            <p>Escolha o estado desejado e aproveite nossos preços.</p>
-            <a href="teste1.php" class="button">Clique aqui para ver os quartos</a>
+            <p>Escolha o hotel desejado e aproveite nossos preços.</p>
+            <a href="paginas/listagemhoteis.php" class="button">Clique aqui para ver os hoteis</a>
         </section>
 
     <section id="rooms">

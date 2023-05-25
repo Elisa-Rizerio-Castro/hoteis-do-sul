@@ -7,7 +7,7 @@
 </head>
 <body>
   <header class="hEstado">
-    <h1>Escolha o estado que deseja</h1>
+  <img src="../imagens/logo2.png" alt="">
     <nav>
       <ul>
         <li><a href="../index.php">Início</a></li>
@@ -17,11 +17,11 @@
     </nav>
   </header>
   <section id="banner1">
-    <h2>Bem-vindos ao Hotéis do Sul</h2>
+    <!-- <h2>Bem-vindos ao Hotéis do Sul</h2>
     <p>Escolha o estado desejado e aproveite nossos preços.</p>
-    <a href="#" class="button">Clique aqui para ver os quartos</a>
+    <a href="#" class="button">Clique aqui para ver os quartos</a> -->
   </section>
-
+  <!--
   <section id="states">
     <h2>Escolha um Estado:</h2>
     <ul>
@@ -37,7 +37,7 @@
             <p>Salário: <?=$h["avaliacao"]?></p>
             <p><?=$h["preco"]?></p>
             <a href="../index.php" class="link">Voltar</a>
-        </div>
+        </div> -->
     <footer>
         <p>&copy; 2023 Hoteis Sul. Todos os direitos reservados.</p>
     </footer>

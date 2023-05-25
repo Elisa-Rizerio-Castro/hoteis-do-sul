@@ -19,7 +19,8 @@ header {
     color: #fff;
     padding: 20px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header img {
@@ -62,7 +63,8 @@ nav ul li a {
 }
 
 #banner1 {
-    background-image: url(../imagens/hotel2.jpg);
+    background-image: url(../imagens/fundo.png);
+    background-color: #fff;
     background-size: cover;
     color: #fff;
     text-align: center;
