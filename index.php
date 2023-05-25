@@ -6,7 +6,7 @@
 <html>
     <head>
     <title>Hotéis do Sul</title>
-    <link rel="stylesheet" type="text/css" href="estilo/estilo.css">
+    <link rel="stylesheet" type="text/css" href="estilo/estilos.css">
     </head>
     <body>
         <header>
