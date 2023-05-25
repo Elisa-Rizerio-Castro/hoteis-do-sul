@@ -56,7 +56,7 @@ nav ul li a {
     justify-items: center;
 }
 .card {
-	background-color: #f8f8f8;
+	background-color: #0cbeeb;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 	min-height: 300px;
 	min-width: 400px;
@@ -72,7 +72,7 @@ nav ul li a {
 	max-width: 100%;
 	height: auto;
     border-radius: 50%;
-    border:5px solid #3399ff;
+    border:5px solid #f8da53;
     margin:10px;
 }
 .card h2 {

@@ -14,7 +14,7 @@ $hoteis = [
         "local" => "Criciúma - Santa Catarina",
         "avaliacao" => "8.3 - Muito bom",
         "preco" => "R$103,00 pernoite.",
-        "foto" => "../imagens/GuestHouseIsadoraDuncan.webp",
+        "foto" => "../imagens/GuestHouseIsadoraDuncan.jpg",
     ],
 
     [
@@ -55,7 +55,7 @@ $hoteis = [
         "local" => "Curitiba - Paraná",
         "avaliacao" => "9.9 - Excelente",
         "preco" => "R$280,00 pernoite",
-        "foto" => "../imagens/HotelEvelina.webp",
+        "foto" => "../imagens/HotelEvelina.jpg",
       ],
 
       [
