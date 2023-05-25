@@ -63,7 +63,7 @@
                 <img src="imagens/logo2.png" alt="">
             </a>
            
-         <address>&copy; 2023 Hoteis Sul. Todos os direitos reservados. </address>
+         <p>&copy; 2023 Hoteis Sul. Todos os direitos reservados. </p>
         </footer>
 </body>
 </html>
