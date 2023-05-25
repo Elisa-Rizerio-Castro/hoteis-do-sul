@@ -29,16 +29,17 @@
                 
             ?>
 
-		<div class="card">
-            <a href="detalhe.php?i=<?=$i?>">
-			    <img src="<?=$b["foto"]?>" alt="<?=$b["nome"]?>">
-            </a>
-			<h3><a href="detalhe.php?i=<?=$i?>"> <?=$b["nome"]?></a></h3>
-			
-		</div>
+      <div class="card">
+              <a href="detalhe.php?i=<?=$i?>">
+            <img src="<?=$b["foto"]?>" alt="<?=$b["nome"]?>">
+              </a>
+        <h3><a href="detalhe.php?i=<?=$i?>"> <?=$b["nome"]?></a></h3>
+        
+      </div>
 
          <?php } ?>
-                </section>
+    </div>
+    </section>
     <footer>
         <p>&copy; 2023 Hoteis Sul. Todos os direitos reservados.</p>
     </footer>
